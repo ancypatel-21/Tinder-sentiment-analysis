@@ -18,15 +18,4 @@ Tinder Sentiment Analysis is a project aimed at analyzing user reviews of the Ti
 - JavaScript
 - Git
 
-## Installation
-1. Clone the repository: git clone https://github.com/n7kadda/Sentiment.git
-2. Navigate to the project directory:
-3. Install dependencies: pip install -r requirements.txt
 
-## Usage
-1. Run the Flask web application: python app.py
-2. Access the web interface by visiting http://localhost:5000 in your web browser.
-3. Enter your Tinder review in the input box and click the "Analyze" button to receive sentiment analysis results.
-
-## Contributing
-Contributions are welcome! Please open an issue to discuss proposed changes or fork the repository and submit a pull request.
